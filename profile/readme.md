@@ -2,7 +2,7 @@
   <div class="title"></div>
   <div>
     <a href="https://ghom.gitbook.io/bot-ts/">
-      <img src="https://raw.githubusercontent.com/GhomKrosmonaute/bot.ts-docs/master/.gitbook/assets/bot.ts-banner.png"/>
+      <img src="https://media.discordapp.net/attachments/609313381421154304/1168550107239690240/bot.ts_banner.png"/>
     </a>
   </div>
   <div>
@@ -52,4 +52,4 @@ Code faster and without the hassle. Choosing **bot.ts** is choosing control.
 * [use this template](https://github.com/bot-ts/framework/generate)
 * [Follow tool NEWS](https://discord.gg/kYxDWWQJ8q)
 
-![logs](https://media.discordapp.net/attachments/609313381421154304/1168543147593306254/image.png?ex=6552259c&is=653fb09c&hm=981d9b8dc3f0fd0643178c5b2beabde20b448a6cec7a41db476740195336210e&=&width=1147&height=588)
+![logs](https://media.discordapp.net/attachments/609313381421154304/1168543147593306254/image.png)

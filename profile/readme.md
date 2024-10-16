@@ -49,7 +49,7 @@ Code faster and without the hassle. Choosing **bot.ts** is choosing control.
 
 ## Annexes
 
-* [Github](https://github.com/bot-ts) - Come contribute 🩵
+* [GitHub](https://github.com/bot-ts) - Come contribute 🩵
 * [Documentation](https://ghom.gitbook.io/bot-ts/)
 * [Package](https://www.npmjs.com/package/@ghom/bot.ts-cli) of CLI on NPM
 * [Discord](https://discord.gg/kYxDWWQJ8q) to track the progress of the project.

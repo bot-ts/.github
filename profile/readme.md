@@ -51,7 +51,7 @@ Code faster and without the hassle. Choosing **bot.ts** is choosing control.
 
 ## Hello World
 
-![bot.ts hello world](https://raw.githubusercontent.com/bot-ts/docs/master/.gitbook/assets/bot.ts-helloworld.webp)
+![bot.ts hello world](https://media.githubusercontent.com/media/bot-ts/docs/refs/heads/master/.gitbook/assets/bot.ts-helloworld.webp)
 
 ## Annexes
 

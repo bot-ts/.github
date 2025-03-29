@@ -7,11 +7,12 @@
   </div>
   <div>
     <a href="https://discord.gg/3vC2XWK"><img src="https://img.shields.io/discord/507389389098188820?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
-    <a href="https://www.npmjs.com/package/@ghom/bot.ts-cli"><img src="https://img.shields.io/npm/v/@ghom/bot.ts-cli.svg?maxAge=3600" alt="CLI version" /></a>
+    <a href="https://www.npmjs.com/package/@ghom/bot.ts-cli"><img src="https://img.shields.io/npm/v/@ghom/bot.ts-cli.svg?label=CLI&maxAge=3600" alt="CLI version" /></a>
     <a href="https://www.npmjs.com/package/@ghom/bot.ts-cli"><img src="https://img.shields.io/npm/dm/@ghom/bot.ts-cli.svg?maxAge=3600" alt="CLI downloads" /></a>
     <a href="https://github.com/bot-ts/framework/actions/workflows/factory.yml"><img src="https://github.com/bot-ts/framework/actions/workflows/factory.yml/badge.svg?branch=master" alt="Tests" /></a>
     <img alt="Dependency status" src="https://img.shields.io/librariesio/github/bot-ts/framework">
     <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js?label=discord.js" alt="Discord.js version" /></a>
+    <a href="https://biomejs.dev"><img alt="Static Badge" src="https://img.shields.io/badge/Formatted_with-Biome-60a5fa?style=flat&logo=biome"></a>
     <a href="https://github.com/bot-ts/framework"><img alt="Github stars" src="https://img.shields.io/github/stars/bot-ts/framework?color=black&logo=github"></a>
   </div>
 </div>
@@ -28,13 +29,13 @@
 - **CLI File Generation**: Easy and powerful file generation using [@ghom/bot.ts-cli](https://www.npmjs.com/package/@ghom/bot.ts-cli).
 - **Node Aliases**: Simplify module resolution with useful path aliases using [Node.js 'imports'](https://nodejs.org/api/packages.html#packages_imports).
 - **Shell Arguments**: Handle type-safe shell arguments on textual commands using [Yargs](http://yargs.js.org/).
-- **Predefined Commands & Listeners**: Ready-to-use dev-[commands](https://github.com/bot-ts/framework/blob/master/src/commands) and system-[listeners](https://github.com/bot-ts/framework/blob/master/src/listeners).
+- **Predefined Commands & Listeners**: Ready-to-use owner-only [commands](https://github.com/bot-ts/framework/blob/master/src/commands) and system [listeners](https://github.com/bot-ts/framework/blob/master/src/listeners).
 - **Advanced Scripts**: Configured advanced dev tools in [package.json's scripts and CLI](https://ghom.gitbook.io/bot-ts/command-line/overview).
-- **ORM Setup**: Preconfigured [Knex](http://knexjs.org/)-based ORM with [sqlite3](https://www.npmjs.com/package/sqlite3) using [@ghom/orm](https://www.npmjs.com/package/@ghom/orm).
+- **Database**: A built-in [Knex](http://knexjs.org/)-based ORM compatible with PostgreSQL, Mysql and SQLite: [@ghom/orm](https://www.npmjs.com/package/@ghom/orm).
 - **Pagination**: Efficient pagination in the [help command](https://github.com/bot-ts/framework/blob/master/src/commands/help.native.ts#L35).
-- **Fast Build**: Builds fast with [Rollup](https://rollupjs.org).
+- **Fastest Experience**: Build fast with [Rollup](https://rollupjs.org) and lint fast with [Biome](https://biomejs.dev).
 - **TypeScript Checks**: Generated CI/CD using [GitHub Actions](https://github.com/bot-ts/framework/blob/master/.github/workflows/test.yml).
-- **Logging**: Beautiful console logging using [@ghom/logger](https://www.npmjs.com/package/@ghom/logger).
+- **Nice Logging**: Beautiful console logging using [@ghom/logger](https://www.npmjs.com/package/@ghom/logger).
 - **Framework Updates**: Stay up to date with the integrated [updater](https://github.com/bot-ts/framework/blob/master/scripts/update-framework.js).
 - **Docker**: Run with [Docker](https://www.docker.com) via [Dockerfile](https://github.com/bot-ts/framework/blob/master/Dockerfile) or [compose.yml](https://github.com/bot-ts/framework/blob/master/compose.yml).
 - **Data Caching**: Reduce database and API requests with built-in caching.
@@ -44,8 +45,8 @@
 - Localhost Admin Dashboard
 - Data Caching imporovement
 - Make optional the textual command system
-- Move all advanced scripts into CLI
 - Publish the CLI as JSR package
+- Use Mintlify as documentation
 
 ## Why using bot.ts?
 
@@ -63,7 +64,7 @@ Modern, intuitive, and easy to use. Choosing **Bot.ts** is choosing control.
 ## Annexes
 
 * [GitHub](https://github.com/bot-ts) - Come contribute 🩵
-* [Documentation](https://ghom.gitbook.io/bot-ts/)
+* [Documentation](https://ghom.gitbook.io/bot-ts/) 🤓
 * [Package](https://www.npmjs.com/package/@ghom/bot.ts-cli) of CLI on NPM
 * [Discord](https://discord.gg/kYxDWWQJ8q) to track the progress of the project.
 * [Community](https://discord.gg/3vC2XWK) - Les Laboratoires JS
